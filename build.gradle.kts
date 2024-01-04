@@ -3,8 +3,4 @@ buildscript {
         google()
         mavenCentral()
     }
-
-    dependencies {
-        classpath(Dependencies.hiltAgp)
-    }
 }
